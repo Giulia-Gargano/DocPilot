@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Test and tooling outputs
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local documents and generated indexes
+data/raw/
+data/processed/
+data/index/
+chroma_db/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
