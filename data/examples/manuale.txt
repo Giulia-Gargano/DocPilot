@@ -1,0 +1,15 @@
+MANUALE DEMO DI DOCPILOT
+
+Questo documento contiene informazioni di esempio per testare DocPilot.
+Non descrive le funzionalita attuali del progetto.
+
+FORMATO DEI DOCUMENTI
+Nella prima versione dimostrativa vengono utilizzati documenti di testo.
+
+GESTIONE DELLE FONTI
+Ogni documento deve avere un nome riconoscibile.
+Le risposte future dovranno indicare le fonti utilizzate.
+
+DOMANDE SENZA RISPOSTA
+Se i documenti non contengono le informazioni richieste,
+l'assistente deve dichiarare che non dispone di una risposta supportata.
